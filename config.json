@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheeave",
+        "uuid": 10657458,
+        "checksum": "57zwmc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
